@@ -36,23 +36,50 @@ h3{
 .back-img{
     background-image: url(eat-healthy-main/eat-healthy-main/images/shapes/7.png);
     background-repeat: no-repeat;
-    background-size: cover;
-    
+    background-size:cover;  
+}
+.picture{
+    height: 10%;
+    width: 60%;
+    padding-bottom: 80px;  
 }
 
 /* receipies */
 .t-aline{
     text-align: center;
     padding:60px;
-    background-color: aquamarine;
     font-size:20px;
 }
+.padding-img{
+    padding-left:30px ;
+    padding-right:30px ;
+    text-align: left;
+}
 .food-box{
-    border: 60px;
-    padding: 10px 20px 20px 30px;
-    border-color: blueviolet;
+   box-shadow: 10px 10px 30px gray;
+    margin-left: 5%;
+    margin-right: 5%;
     border-radius: 10px;
-
+}
+/* 700k part */
+.bdr{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 60px;
+    margin-right: 60px;
+    border: 80px;
+    padding: 10px;
+   font-weight: 800;
+}
+.last-box{
+    margin-top: 40px;
+    padding: 10px 30px 10px 400px;
+    margin-left: 150px;
+    margin-right: 150px;
+    box-shadow: 10px 10px 10px 10px gainsboro;
+    border-radius: 40px;
+    margin-bottom: 40px;
 }
 /* footer */
 .foot{
