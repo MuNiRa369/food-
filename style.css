@@ -5,7 +5,7 @@ body{
 /*skip part*/
 h3{
     font-size:60px;
-    padding-top: 60px;
+    padding-top: 100px;
 }
 .half-sector{
     width: 50%;
@@ -17,8 +17,26 @@ h3{
 }
 .pic-edit{
     width: 70%;
-    padding-bottom: 60px;
+    padding-bottom: 80px;
+    background-color: aquamarine;    
 }
+.button{
+    border: 5px;
+    padding: 10px ;
+    text-decoration: none;
+    border-radius: 15px;
+    background-image: linear-gradient(rgba(0, 0, 255, 0.41), rgb(0, 183, 255));
+    font-weight: 800;
+}
+
+/* about */
+#mid{
+    padding-right: 60px;
+}
+.back-img{
+    
+}
+
 /* footer */
 .foot{
     background-color: black;
