@@ -13,12 +13,11 @@ h3{
 }
 .flex{
     display: flex;
-    margin-bottom:100px;    
+    margin-bottom: 10px;
 }
 .pic-edit{
     width: 70%;
-    padding-bottom: 80px;
-    background-color: aquamarine;    
+    padding-bottom: 80px;  
 }
 .button{
     border: 5px;
@@ -34,9 +33,25 @@ h3{
     padding-right: 60px;
 }
 .back-img{
+    background-image: url(eat-healthy-main/eat-healthy-main/images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
     
 }
 
+/* receipies */
+.t-aline{
+    text-align: center;
+    padding:60px;
+    background-color: aquamarine;
+    font-size:20px;
+}
+.food-box{
+    border: 60px;
+    padding: 10px 20px 20px 30px;
+    border-color: blueviolet;
+    border-radius: 10px;
+
+}
 /* footer */
 .foot{
     background-color: black;
