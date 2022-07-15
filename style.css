@@ -45,22 +45,30 @@ h3{
 }
 
 /* receipies */
+#My-recipies{
+    padding-left: 80px;
+    padding-right: 80px;
+}
 .t-aline{
     text-align: center;
     padding:60px;
     font-size:20px;
 }
+.t-aline p{
+    padding-left:120px ;
+    padding-right:120px ;
+}
 .padding-img{
-    padding-left:30px ;
-    padding-right:30px ;
-    text-align: left;
+    width:100%;
 }
 .food-box{
-   box-shadow: 10px 10px 30px gray;
+    box-shadow: 10px 10px 30px gray;
     margin-left: 5%;
     margin-right: 5%;
     border-radius: 10px;
+    padding: 20px;
 }
+
 /* 700k part */
 .bdr{
     text-align: center;
@@ -70,11 +78,11 @@ h3{
     margin-right: 60px;
     border: 80px;
     padding: 10px;
-   font-weight: 800;
+    font-weight: 800;
 }
 .last-box{
     margin-top: 40px;
-    padding: 10px 30px 10px 400px;
+    padding: 10px 30px 10px 320px;
     margin-left: 150px;
     margin-right: 150px;
     box-shadow: 10px 10px 10px 10px gainsboro;
@@ -84,9 +92,9 @@ h3{
 /* footer */
 .foot{
     background-color: black;
-   color: white;
-   padding: 50px;
-   text-align: center;
+    color: white;
+    padding: 50px;
+    text-align: center;
 }
 .foot span{
     color: chocolate;
